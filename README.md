@@ -52,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap" />
 
 <h4>🖥️ Backend & Databases</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres,sql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,sql" />
 
 <h4>📊 Data Science & ML</h4>
 <img src="https://skillicons.dev/icons?i=python,jupyter" /><br/>
