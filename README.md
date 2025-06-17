@@ -62,20 +62,26 @@
   <img src="https://skillicons.dev/icons?i=python,jupyter" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="50" alt="Matplotlib" />
+
+  <!-- Matplotlib fallback (icon from icons8) -->
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-graph-matplotlib-soft-fill-soft-fill-juicy-fish.png" height="50" alt="Matplotlib" />
+
+  <!-- Seaborn fallback (static image) -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50" alt="Seaborn" />
 
-  <!-- Data, BI & SQL -->
+  <!-- SQL & Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Power_BI_logo.svg" height="50" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="50" alt="Power BI" />
 
   <!-- ML & NLP -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="50" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Jupyter" />
+
+  <!-- Scikit-learn fallback (custom upload) -->
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" height="50" alt="Scikit-learn" />
+
 </div>
+
 
 
 
