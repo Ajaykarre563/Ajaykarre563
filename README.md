@@ -54,23 +54,21 @@
 <h4>🖥️ Backend & Databases</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,sql" />
 
-<h4>📊 Data Science & ML</h4>
-<img src="https://skillicons.dev/icons?i=python,jupyter" /><br/><br/>
-
-<!-- Badges for other Data Science tools -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-5A86AD?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-ff6f00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Visualization-29B6F6?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistical_Analysis-6A1B9A?style=for-the-badge&logo=r&logoColor=white" />
+<h4>📊 Data Science & Machine Learning</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50px" />
+  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height="50px" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scikit_learn_logo_small.svg" height="50px" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Power_BI_logo.svg" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Scikit_learn_logo_small.svg" height="50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px" />
+</div>
 
 
 <h4>🧪 Testing & Automation</h4>
