@@ -47,24 +47,28 @@
 ### ⚙️ Tech Stack & Tools
 
 <div align="center">
-  <h4>💻 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap" />
 
-  <h4>🖥️ Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres,sql" />
+<h4>💻 Frontend</h4>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap" />
 
-  <h4>📊 Data Science & ML</h4>
-  <img src="https://skillicons.dev/icons?i=python,jupyter" /><br/>
-  <b>Skills:</b> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Power BI, Excel, Machine Learning, NLP, Data Visualization, Data Cleaning, Statistical Analysis
+<h4>🖥️ Backend & Databases</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres,sql" />
 
-  <h4>🧪 Testing & Automation</h4>
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+<h4>📊 Data Science & ML</h4>
+<img src="https://skillicons.dev/icons?i=python,jupyter" /><br/>
+<b>Skills:</b> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Power BI, Excel, Machine Learning, NLP, Data Visualization, Data Cleaning, Statistical Analysis
 
-  <h4>☁️ DevOps & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure" />
+<h4>🧪 Testing & Automation</h4>
+<img src="https://skillicons.dev/icons?i=selenium,postman" />
 
-  <h4>🧰 Tools & IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,linux" /> | Google Colab, Powershell
+<h4>☁️ DevOps & Cloud</h4>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure" />
+
+<h4>🧰 Tools & IDEs</h4>
+<img src="https://skillicons.dev/icons?i=vscode,linux" /><br/><br/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
 </div>
 
 ---
@@ -90,4 +94,3 @@
 > "Code with purpose. Build with passion. Learn without limits."
 
 ---
-
