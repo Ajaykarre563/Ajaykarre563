@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ajay+Karre+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">🚀 A Passionate Engineer | Developer | Analyst | Tester from India 🇮🇳</h2>
+<h2 align="center">🚀 A Passionate Engineer | Developer | Analyst | Tester from India </h2>
 
 ---
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-💡 I’m a **multi-skilled tech professional** from **Telangana, India** with a strong foundation in software development, data analytics, cloud, and automation.  
+💡 I'm a highly skilled technology professional from Telangana, India, with a strong foundation in software engineering, data analytics, cloud computing, and automation, committed to delivering innovative and scalable solutions.  
 🎯 My mission is to build **scalable apps**, uncover **data-driven insights**, and automate smart solutions that solve real-world problems.  
 📚 Always learning. Always building. Always improving.
 
