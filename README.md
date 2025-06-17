@@ -2,12 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ajay+Karre+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">A Passionate Engineer | Developer | Analyst | Tester 🚀</h2>
+<h2 align="center">🚀 A Passionate Engineer | Developer | Analyst | Tester from India 🇮🇳</h2>
+
+---
+
+### 👨‍💻 About Me
 
 <div align="center">
 
-👨‍💻 I'm Ajay Karre — A versatile and passionate tech professional from Telangana, India.  
-I specialize in modern tech stacks and tools with proven experience across various roles:
+💡 I’m a **multi-skilled tech professional** from **Telangana, India** with a strong foundation in software development, data analytics, cloud, and automation.  
+🎯 My mission is to build **scalable apps**, uncover **data-driven insights**, and automate smart solutions that solve real-world problems.  
+📚 Always learning. Always building. Always improving.
 
 </div>
 
@@ -15,7 +20,11 @@ I specialize in modern tech stacks and tools with proven experience across vario
 
 ### 💼 Roles & Expertise
 
-Data Analyst, Data Engineer, ML & NLP Engineer, Python Developer, Python Full Stack Developer, MERN Stack Developer, MEAN Stack Developer, SQL Developer, Selenium Automation Engineer, PHP Developer, Gen-AI Engineer, Power BI Developer, AWS Engineer etc.... 
+<p align="center">
+🚀 Data Analyst • Data Engineer • ML & NLP Engineer • Python Developer •  
+🌐 Full Stack Developer (Python / MERN / MEAN) • SQL Developer • PHP Developer •  
+🧪 Selenium Automation • Gen-AI Engineer • Power BI Developer • AWS Engineer  
+</p>
 
 ---
 
@@ -35,26 +44,27 @@ Data Analyst, Data Engineer, ML & NLP Engineer, Python Developer, Python Full St
 
 ---
 
-### 🚀💥 Tools & Technologies 💥🚀
+### ⚙️ Tech Stack & Tools
 
 <div align="center">
   <h4>💻 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind" />
-  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap" />
+
   <h4>🖥️ Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,sql" />
-  
-  <h4>📊 Data Science & Machine Learning</h4>
-  <img src="https://skillicons.dev/icons?i=Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Power BI, Excel, Machine Learning, NLP, Data Cleaning, Data Visualization, Statistical Analysis" />
-  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres,sql" />
+
+  <h4>📊 Data Science & ML</h4>
+  <img src="https://skillicons.dev/icons?i=python,jupyter" /><br/>
+  <b>Skills:</b> Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Power BI, Excel, Machine Learning, NLP, Data Visualization, Data Cleaning, Statistical Analysis
+
   <h4>🧪 Testing & Automation</h4>
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
-  
+
   <h4>☁️ DevOps & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,powershell" />
-  
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure" />
+
   <h4>🧰 Tools & IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=VScode,Linux,Colab" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux" /> | Google Colab, Powershell
 </div>
 
 ---
@@ -76,9 +86,8 @@ Data Analyst, Data Engineer, ML & NLP Engineer, Python Developer, Python Full St
 
 ---
 
-### 🔍 Motto
-> “Learn, Build, Share — and keep growing every day.” ✨
+### 💬 Motto
+> "Code with purpose. Build with passion. Learn without limits."
 
 ---
 
-Let me know if you want to [add your projects and demo links](f) or [embed live resume PDF previews](f).
