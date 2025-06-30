@@ -99,26 +99,3 @@
 
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ajaykarre563&show_icons=true&theme=midnight-purple" alt="Ajay's GitHub Stats" height="200px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykarre563&layout=compact&theme=midnight-purple" alt="Ajay's Top Languages" height="200px" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-### 💬 Motto
-> "Code with purpose. Build with passion. Learn without limits."
-
----
