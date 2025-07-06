@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ajay+Karre+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">🚀 A Passionate Engineer | Developer | Analyst | Tester from India</h2>
+<h2 align="center">🚀 A Passionate Associate Engineer @ Arohak | Developer | Analyst | Tester from India</h2>
 
 ---
 
