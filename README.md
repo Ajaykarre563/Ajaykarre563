@@ -15,6 +15,8 @@
 📚 I'm always learning. Always building. Always improving.  
 🎯 My mission is to solve real-world problems with code and data.
 
+🌐 Check out my portfolio: [ajaykarre563.github.io/Profilelinked](https://ajaykarre563.github.io/Profilelinked/)
+
 </div>
 </details>
 
