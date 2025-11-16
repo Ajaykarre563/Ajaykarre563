@@ -1,7 +1,7 @@
-<!-- 🌟 Neon Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;Full-Stack+Dev+%7C+Data+Engineer+%7C+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;Python+Full-Stack+Developer;Data+Analyst;AWS+%26+DevOps+Engineer;AI+Explorer" />
 </h1>
+
 
 <!-- 🔮 Gradient Subtitle -->
 <h2 align="center">
