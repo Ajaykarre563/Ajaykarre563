@@ -1,120 +1,135 @@
+<!-- 🌟 Neon Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8a2be2&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Ajay+Karre+👨🏻‍💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=600&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;Full-Stack+Dev+%7C+Data+Engineer+%7C+AI+Explorer" />
 </h1>
 
-<h2 align="center">🚀 Associate Engineer @ Arohak | Developer | Analyst | Tester | Tech Explorer</h2>
+<!-- 🔮 Gradient Subtitle -->
+<h2 align="center">
+  <span style="background: linear-gradient(90deg, #b621fe, #1fd1f9); -webkit-background-clip: text; color: transparent;">
+    🚀 Associate Engineer @ Arohak • Developer • Analyst • Tester from India
+  </span>
+</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajaykarre563&label=Profile%20Views&color=7e15f7&style=flat" />
-</p>
+<!-- 🌊 Wavy Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=header" width="100%"/>
 
 ---
 
-## 🌟 **About Me**
+## 🌟 About Me
+
 <div align="center">
 
-💡 Tech professional from Telangana, India  
-🔥 I build scalable apps, analyze data, automate tasks & solve real-world problems  
-🚀 Passionate about Full Stack, Data, AI, Cloud & Automation  
-📚 Always learning • Always building • Always improving  
+💡 Passionate Tech Engineer from Telangana, India  
+🔥 I build scalable apps, transform data into insights, automate workflows & work on full-stack products  
+🤖 Exploring ML, NLP, AI automation & Cloud Engineering  
+🚀 A learner who never stops improving
 
-🌐 **Portfolio** →  
-🔗 **https://ajaykarre563.github.io/Profilelinked**
+🔗 **Portfolio:**  
+🎨 https://ajaykarre563.github.io/Profilelinked/
 
 </div>
 
 ---
 
-## 🎯 **Roles & Expertise**
+## ✨ Interactive Role Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analyst-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML%20Engineer-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL%20Developer-critical?style=flat-square" />
-  <br/>
-  <img src="https://img.shields.io/badge/GenAI%20Engineer-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tester%20(Auto)-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS%20Engineer-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analyst-7e15f7?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-00c853?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Engineer-f57c00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Tester-2962FF?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## ⚙️ **Tech Stack**
+# ⚙️ Tech Universe 🌌
 
-### 💻 **Frontend**
+## 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,tailwind" />
 </p>
 
-### 🖥️ **Backend & Databases**
+## 🖥 Backend & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres" />
 </p>
 
-### 📊 **Data Science & ML**
+## 🤖 AI, ML, DS & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter" /><br><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
-  <img src="https://img.shields.io/badge/Seaborn-5A86AD?style=flat" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat" />
-  <img src="https://img.shields.io/badge/ML%20Algorithms-ff6f00?style=flat" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,jupyter" />
+  <br/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi" />
 </p>
 
-### 🧪 **Testing & Automation**
+## 🧪 Automation & Testing
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
 </p>
 
-### ☁️ **DevOps & Cloud**
+## ☁ DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,linux" />
-</p>
-
-### 🧰 **Tools & IDEs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
-  <br>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux" />
 </p>
 
 ---
 
-## 📈 **GitHub Stats**
+# 🎛️ Animated Skill Bars
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykarre563&theme=radical" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
-  
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajaykarre563&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykarre563&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Ajaykarre563&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykarre563&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 
 </div>
 
 ---
 
-## 📫 **Connect with Me**
+# 🌀 Dynamic Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaykarre563&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🎭 Fun Zone: Dev GIFs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="320" />
+</p>
+
+---
+
+# 📫 Connect with Me
 
 <div align="center">
 
 <a href="mailto:karreajay37@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/ajay-karre-737291268">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" />
 </a>
-
 <a href="https://github.com/Ajaykarre563">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
+---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=footer" width="100%"/>
