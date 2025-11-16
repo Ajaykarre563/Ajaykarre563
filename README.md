@@ -6,7 +6,7 @@
 <!-- 🔮 Gradient Subtitle -->
 <h2 align="center">
   <span style="background: linear-gradient(90deg, #b621fe, #1fd1f9); -webkit-background-clip: text; color: transparent;">
-    🚀 Associate Engineer @ Arohak • Developer • Analyst • Tester from India
+    🚀 A Passionate Associate Software Engineer @ Arohak • Python Full Stack Developer • Data Analyst • AWS & DevOps Engineer • Software Tester from India
   </span>
 </h2>
 
@@ -19,10 +19,10 @@
 
 <div align="center">
 
-💡 Passionate Tech Engineer from Telangana, India  
-🔥 I build scalable apps, transform data into insights, automate workflows & work on full-stack products  
+💡 Skilled tech professional from Telangana, India  
+🔥 Passionate about building scalable apps, ML/AI, automation & full-stack engineering  
 🤖 Exploring ML, NLP, AI automation & Cloud Engineering  
-🚀 A learner who never stops improving
+🚀 A learner who never stops improving  
 
 🔗 **Portfolio:**  
 🎨 https://ajaykarre563.github.io/Profilelinked/
@@ -48,28 +48,43 @@
 
 ## 💻 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
 ## 🖥 Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,mongodb,mysql,postgres" />
+  <!-- Fixed incorrect ikon: pythondjango ❌ -> django ✔ -->
+  <img src="https://skillicons.dev/icons?i=django,php,mongodb,mysql,postgres" />
 </p>
 
-## 🤖 AI, ML, DS & Analytics
+## 📊 Data Science & Machine Learning
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,jupyter" />
-  <br/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter" /><br><br>
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-5A86AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine_Learning-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Visualization-29B6F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical_Analysis-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
+
+---
 
 ## 🧪 Automation & Testing
 <p align="center">
+  <!-- Fix incorrect icon: Manual ❌ does not exist -->
   <img src="https://skillicons.dev/icons?i=selenium,postman" />
 </p>
+
+---
 
 ## ☁ DevOps & Cloud
 <p align="center">
@@ -78,7 +93,7 @@
 
 ---
 
-# 🎛️ Animated Skill Bars
+# 🎛️ Animated Skill Bars / Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykarre563&theme=radical" />
