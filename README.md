@@ -51,11 +51,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
-## 🖥 Backend & Databases
+## 🖥 Backend Technologies
 <p align="center">
-  <!-- Fixed incorrect ikon: pythondjango ❌ -> django ✔ -->
-  <img src="https://skillicons.dev/icons?i=django,php,mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,django,php" />
 </p>
+
+## 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
 
 ## 📊 Data Science & Machine Learning
 
@@ -78,10 +83,9 @@
 
 ---
 
-## 🧪 Automation & Testing
 <p align="center">
-  <!-- Fix incorrect icon: Manual ❌ does not exist -->
-  <img src="https://skillicons.dev/icons?i=Manual,selenium,postman" />
+  <img src="https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
 </p>
 
 ---
