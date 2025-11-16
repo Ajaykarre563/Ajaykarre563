@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;Python+Full-Stack+Developer;Data+Analyst;AWS+%26+DevOps+Engineer;AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;Python+Full-Stack+Developer;Data+Analyst;AWS+%26+DevOps+Engineer" />
 </h1>
 
 
@@ -81,7 +81,7 @@
 ## 🧪 Automation & Testing
 <p align="center">
   <!-- Fix incorrect icon: Manual ❌ does not exist -->
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+  <img src="https://skillicons.dev/icons?i=Manual,selenium,postman" />
 </p>
 
 ---
