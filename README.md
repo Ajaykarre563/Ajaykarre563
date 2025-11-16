@@ -35,11 +35,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-7e15f7?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_Stack_Developer-00c853?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML_Engineer-f57c00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python_Full_Stack_Developer-00c853?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/AWS_%26_DevOps_Engineer-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Database_Engineer-0d47a1?style=for-the-badge&logo=mysql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Automation_Tester-2962FF?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/ML_%26_NLP_Engineer-f57c00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
