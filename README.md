@@ -102,13 +102,6 @@
 
 ---
 
-# 🎛️ Animated Skill Bars / Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykarre563&theme=radical" />
-</p>
-
----
 
 # 📈 GitHub Analytics
 
