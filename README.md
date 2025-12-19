@@ -24,9 +24,6 @@
 🤖 Exploring ML, NLP, AI automation & Cloud Engineering  
 🚀 A learner who never stops improving  
 
-🔗 **Portfolio:**  
-🎨 https://ajaykarre563.github.io/Profilelinked/
-
 </div>
 
 ---
