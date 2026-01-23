@@ -43,7 +43,7 @@
 
 ## 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi"/>
 </p>
 
 ## 🗄️ Databases
