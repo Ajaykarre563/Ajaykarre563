@@ -6,7 +6,7 @@
 <!-- 🔮 Gradient Subtitle -->
 <h2 align="center">
   <span style="background: linear-gradient(90deg, #b621fe, #1fd1f9); -webkit-background-clip: text; color: transparent;">
-    🚀 A Passionate Associate Software Engineer @ Arohak • Python Full Stack Developer • Data Analyst • AWS & DevOps Engineer...
+    🚀 A Passionate Associate Software Engineer @ Arohak • AWS & DevOps Engineer...
   </span>
 </h2>
 
