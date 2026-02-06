@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=720&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer;Python+Full+Stack+Developer;Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=760&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer;Python+Full+Stack+Developer;Data+Analyst" />
 </h1>
 
 <h3 align="center">
@@ -15,20 +15,20 @@
 <div align="center">
 
 💡 Associate Software Engineer from Telangana, India  
-☁️ AWS & DevOps Engineer  
-🐍 Python Full-Stack Developer  
-📊 Data Analyst with ML & NLP exposure  
-🚀 Continuous learner & builder  
+☁️ AWS & DevOps Engineer with hands-on cloud experience  
+🐍 Python Full-Stack Developer (FastAPI, REST APIs)  
+📊 Data Analyst with ML & NLP project exposure  
+🚀 Passionate learner | Problem solver | Builder  
 
 </div>
 
 ---
 
-## ✨ Roles
+## 👨‍💻 Professional Roles
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_DevOps_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_Full_Stack-00C853?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python_Full_Stack_Developer-00C853?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analyst-7E15F7?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
@@ -43,7 +43,7 @@
 
 ## 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask"/>
 </p>
 
 ## 🗄️ Databases
@@ -67,14 +67,12 @@
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Visualization-29B6F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Statistical_Analysis-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## 🧪 Testing
+## 🧪 Testing & Automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge"/>
@@ -103,11 +101,8 @@
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/ELB-6B7280?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Auto_Scaling-009688?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/SNS-D97706?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 ---
