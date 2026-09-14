@@ -60,11 +60,6 @@
 ---
 
 ## ☁️ Cloud & DevOps Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,docker,kubernetes,terraform,ansible,linux,nginx"/>
-</p>
-
 ---
 
 ## ☁️ AWS Services
