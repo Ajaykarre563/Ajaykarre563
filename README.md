@@ -150,7 +150,7 @@ Automated SSL/TLS certificate renewal and deployment across client environments.
 
 ### 📁 Secure Transfer – File Transfer Platform
 
-SecureTransfers is a secure file-sharing and file-transfer platform designed to support B2B, H2H, G2G, H2M, and M2H transfer workflows. CrushFTP acts as the secure file-transfer server and gateway, supporting SFTP, FTPS, HTTPS/TLS, PGP encryption, authentication, and role-based access.
+SecureTransfers is a secure file-sharing and file-transfer platform that supports B2B, H2H, G2G, H2M, and M2H file transfers.
 
 ---
 
