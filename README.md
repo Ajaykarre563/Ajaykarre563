@@ -32,25 +32,6 @@ I'm passionate about cloud technologies, DevOps practices, and building efficien
 
 ---
 
-## 📊 Data Science & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter"/><br><br>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-5A86AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-29B6F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
 ## ☁️ Cloud & DevOps Tools
 ------
 ## ☁️ AWS Services
@@ -134,6 +115,27 @@ I'm passionate about cloud technologies, DevOps practices, and building efficien
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+--------
+
+## 📊 Data Science & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,jupyter"/><br><br>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-5A86AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-29B6F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
