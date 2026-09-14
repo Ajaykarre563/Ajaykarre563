@@ -24,7 +24,7 @@ I'm passionate about cloud technologies, DevOps practices, and building efficien
 ---
 
 ✨ Roles
-<p align="center"> <img src="https://img.shields.io/badge/AWS_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps_Engineer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Infrastructure_Engineer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD_%26_Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/AWS_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps_Engineer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Infrastructure_Engineer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 # ⚙️ Tech Stack
 
