@@ -10,24 +10,21 @@
 
 ---
 
-## 🌟 About Me
-
+🌟 About Me
 <div align="center">
 
-💡 Associate Software Engineer from Telangana, India  
-☁️ AWS & DevOps Engineer  
+I am an AWS & DevOps Engineer with hands-on experience in designing, deploying, and managing scalable cloud-based applications.
+
+At Arohak Technologies, I worked on real-time production projects including CRENMA and SecureTransfers, handling end-to-end AWS infrastructure, application deployment, and DevOps operations. I implemented CI/CD pipelines, Infrastructure as Code using Terraform and YAML, Docker-based deployments, Linux server administration, security controls, monitoring, and compliance practices using SonarQube and SOC 2 scanning — ensuring secure, highly available, and reliable production environments.
+
+I'm passionate about cloud technologies, DevOps practices, and building efficient, secure, and scalable systems. I continuously strive to learn new tools and technologies to improve my skills and contribute effectively to real-world projects.
 
 </div>
 
 ---
 
-## ✨ Roles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_DevOps_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
+✨ Roles
+<p align="center"> <img src="https://img.shields.io/badge/AWS_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps_Engineer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Cloud_Infrastructure_Engineer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD_%26_Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> </p>
 
 # ⚙️ Tech Stack
 
