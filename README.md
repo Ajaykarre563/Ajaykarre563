@@ -16,9 +16,6 @@
 
 💡 Associate Software Engineer from Telangana, India  
 ☁️ AWS & DevOps Engineer  
-🐍 Python Full-Stack Developer  
-📊 Data Analyst with ML & NLP exposure  
-🚀 Continuous learner & builder  
 
 </div>
 
@@ -28,28 +25,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_DevOps_Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_Full_Stack-00C853?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analyst-7E15F7?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ---
 
 # ⚙️ Tech Stack
 
-## 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
-</p>
 
-## 🧠 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi"/>
-</p>
-
-## 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
 
 ---
 
@@ -74,12 +56,6 @@
 
 ---
 
-## 🧪 Testing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge"/>
-  <img src="https://skillicons.dev/icons?i=selenium"/>
-</p>
 
 ---
 
