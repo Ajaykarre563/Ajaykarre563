@@ -52,10 +52,6 @@ I'm passionate about cloud technologies, DevOps practices, and building efficien
 </p>
 
 ---
-
-
----
-
 ## ☁️ Cloud & DevOps Tools
 ---
 
