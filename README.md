@@ -69,26 +69,6 @@
 
 ## ☁️ AWS Services
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/ELB-6B7280?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Auto_Scaling-009688?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/SNS-D97706?style=for-the-badge&logo=amazonaws"/>
-</p>
-
-
-## ☁️ AWS Services
-
 ### 🖥️ Compute & Containers
 
 <p align="center">
