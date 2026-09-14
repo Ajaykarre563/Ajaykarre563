@@ -1,144 +1,176 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=900&height=70&duration=2000&color=FF9900&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer+☁️;Cloud+Infrastructure+%7C+Terraform+%7C+CI%2FCD;Docker+%7C+Kubernetes+%7C+AWS+Security+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=720&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer;Cloud+Infrastructure+Automation;CI%2FCD+%26+IaC+Specialist" />
 </h1>
 
 <h3 align="center">
-  Associate Software Engineer | AWS & DevOps Engineer
+☁️ AWS & DevOps Engineer | Infrastructure as Code | CI/CD Automation
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=header" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=header" width="100%"/>
 
 ---
 
 ## 🌟 About Me
 
-* ☁️ AWS & DevOps Engineer
-* 🏗️ Cloud Infrastructure & AWS Architecture
-* ⚙️ Infrastructure as Code with Terraform & CloudFormation
-* 🔄 CI/CD Automation with Jenkins, GitHub & Bitbucket
-* 🐳 Docker, Docker Compose & Kubernetes
-* 🔐 AWS Security & DevSecOps
-* 📊 CloudWatch & Grafana Monitoring
-* 💰 AWS Cost Analysis & Optimization
-* 🐧 Linux Administration & Shell Automation
+<div align="center">
+
+☁️ AWS & DevOps Engineer from Telangana, India
+🏗️ Architecting secure, scalable, multi-tier cloud infrastructure
+🔁 Building zero-downtime CI/CD pipelines
+📦 Automating everything with IaC — Terraform, CloudFormation, Ansible
+🐳 Containers & Orchestration — Docker, Kubernetes, ECS/EKS
+🔐 Security-first mindset — IAM, SOC 2, SonarQube
+🚀 Continuous learner & builder
+
+</div>
 
 ---
 
-# ☁️ AWS Skills
-
-### 🖥️ Compute & Containers
+## ✨ Currently
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_FireLens-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 🌐 Networking
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_NLB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Client_VPN-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic_IP-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 💾 Storage & Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NFS-4B5563?style=for-the-badge"/>
-</p>
-
-### 🔐 Security & Identity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_ACM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
-
-### 📊 Monitoring & Operations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LGTM_Stack-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 🔔 Messaging & Events
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-Arohak_Technologies-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-DevOps_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-# 🛠️ DevOps Skills
+# ⚙️ Tech Stack
 
-### 🏗️ Infrastructure as Code
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
-</p>
-
-### 🔄 CI/CD & Version Control
+## ☁️ Cloud Platform — AWS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/ALB%2FNLB-8C4FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/API_Gateway-8C4FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/EBS-569A31?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/EFS-569A31?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/WAF-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/ACM-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/EventBridge-D97706?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/SNS-D97706?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/SES-D97706?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws"/>
 </p>
 
-### 🐳 Containers & Orchestration
+## 🐳 Containers & Orchestration
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🐧 Linux & Automation
+## 🏗️ Infrastructure as Code
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+</p>
+
+## 🔁 CI/CD & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+## 🔀 Version Control
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</p>
+
+## 🐧 Operating Systems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"/>
+</p>
+
+## 📈 Monitoring & Quality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC_2_Compliance-1A1A1A?style=for-the-badge"/>
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">
-  🚀 Building | Automating | Securing | Optimizing Cloud Infrastructure
-</h3>
+## 🏆 Featured Production Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=90&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/Crenma-Certificate_Management_Platform-8a2be2?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SecureTransfers-Secure_File_Transfer_Platform-8a2be2?style=for-the-badge"/>
 </p>
+
+**Crenma** — End-to-end SSL/TLS certificate lifecycle automation platform integrating Sectigo, Let's Encrypt & Google Trust Services, deployed on AWS ECS with Terraform-driven IaC and Jenkins CI/CD.
+
+**SecureTransfers** — Secure B2B/H2H/G2G file-transfer platform built on CrushFTP supporting SFTP/FTPS/HTTPS-TLS with PGP encryption, deployed across multi-AZ AWS infrastructure.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykarre563&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykarre563&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykarre563&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:karreajay37@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ajay-karre-737291268">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ajaykarre563">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; Open to Relocation / Remote
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=footer" width="100%"/>
