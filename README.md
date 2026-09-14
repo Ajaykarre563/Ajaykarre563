@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=720&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer;Python+Full+Stack+Developer;Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=720&height=70&duration=2000&color=AA00FF&lines=Hey+There!+👋;I'm+Ajay+Karre+👨🏻‍💻;AWS+%26+DevOps+Engineer />
 </h1>
 
 <h3 align="center">
-🚀 Associate Software Engineer | AWS & DevOps 
+🚀 Software Engineer @Arohak Technologies | AWS & DevOps 
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=90&section=header" width="100%"/>
