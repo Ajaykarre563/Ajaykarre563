@@ -51,10 +51,8 @@ I'm passionate about cloud technologies, DevOps practices, and building efficien
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
----
 ## ☁️ Cloud & DevOps Tools
----
-
+------
 ## ☁️ AWS Services
 
 ### 🖥️ Compute & Containers
